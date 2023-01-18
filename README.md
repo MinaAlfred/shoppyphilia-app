@@ -1,0 +1,1 @@
+# shoppyphilia-app
